@@ -4,4 +4,5 @@
     "window.zoomLevel": 2,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Night Owl",
+    "files.autoSave": "afterDelay",
 }
