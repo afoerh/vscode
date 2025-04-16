@@ -5,7 +5,6 @@
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-    "editor.minimap.enabled": false,
     "github.copilot.enable": {
         "*": false,
         "plaintext": false,
