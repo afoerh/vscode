@@ -1,9 +1,15 @@
 {
-"explorer.compactFolders": false,
-"editor.fontSize": 18,
-"window.zoomLevel": 2,
-"files.autoSave": "afterDelay",
-"workbench.iconTheme": "material-icon-theme",
-"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-"editor.minimap.enabled": false
+    "explorer.compactFolders": false,
+    "editor.fontSize": 18,
+    "window.zoomLevel": 2,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "editor.minimap.enabled": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }
