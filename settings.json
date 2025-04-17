@@ -1,7 +1,7 @@
 {
     "explorer.compactFolders": false,
     "editor.fontSize": 14,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
