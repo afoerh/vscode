@@ -4,7 +4,6 @@
     "window.zoomLevel": 2,
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
     "github.copilot.enable": {
         "*": false,
         "plaintext": false,
