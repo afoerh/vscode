@@ -10,5 +10,4 @@
         "markdown": false,
         "scminput": false,
     },
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
 }
