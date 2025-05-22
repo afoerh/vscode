@@ -3,11 +3,6 @@
     "editor.fontSize": 17,
     "window.zoomLevel": 1.5,
     "files.autoSave": "afterDelay",
-    "workbench.iconTheme": "material-icon-theme",
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
-        "scminput": false,
-    },
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "vscode-icons",
 }
